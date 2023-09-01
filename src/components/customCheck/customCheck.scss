@@ -1,0 +1,13 @@
+.checkBox{
+    width: 16px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid var(--primary - gray - secondary, #AAB7D4);
+    background: var(--neuteral - gray - background, #F8FAFB);
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
