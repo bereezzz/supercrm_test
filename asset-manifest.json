@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bereezzz/supercrm_test/static/css/main.1b955aee.css",
+    "main.js": "/bereezzz/supercrm_test/static/js/main.af97a210.js",
+    "index.html": "/bereezzz/supercrm_test/index.html",
+    "main.1b955aee.css.map": "/bereezzz/supercrm_test/static/css/main.1b955aee.css.map",
+    "main.af97a210.js.map": "/bereezzz/supercrm_test/static/js/main.af97a210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b955aee.css",
+    "static/js/main.af97a210.js"
+  ]
+}
